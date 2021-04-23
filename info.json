@@ -1,0 +1,9 @@
+{
+  "name": "oil-furnace",
+  "version": "0.1.0",
+  "title": "Oil Furnace",
+  "author": "Soveu",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.0"],
+  "description": "Adds furnaces powered by oil to the game"
+}
